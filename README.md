@@ -1,1 +1,0 @@
-# Samsung-Galaxy-g973-kernel
